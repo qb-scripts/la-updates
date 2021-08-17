@@ -1,3 +1,5 @@
+![Discord](https://img.shields.io/discord/851354005585264640?color=%235865F2&label=Discord&logo=discord&style=for-the-badge)
+
 # Changelog
 Toutes les modifications notables apportées à ce projet seront documentées dans ce fichier.
 
