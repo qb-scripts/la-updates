@@ -65,6 +65,10 @@ Toutes les modifications notables apportées à ce projet seront documentées da
 
 <!-- ## Propositions
 
-### Bryan Laurier
+### Bryan L
+
+- Proposition ... -->
+
+<!-- ### Bryan M
 
 - Proposition ... -->
