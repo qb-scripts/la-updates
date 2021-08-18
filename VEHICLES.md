@@ -25,7 +25,7 @@
 | De Tomaso Mangusta | `mangusta` | **NO** | **NO** | In-Game | *Sept 2021* |
 | Dodge Monaco | `emperor` | **NO** | **NO** | In-Game | *Sept 2021* |
 | Ford Thunderbird 1964 | `tbird64` | **NO** | **NO** | In-Game | *Sept 2021* |
-| Ford Mustang 196 | `mustang67` | **NO** | **NO** | In-Game | *Sept 2021* |
+| Ford Mustang 1986 | `mustang67` | **NO** | **NO** | In-Game | *Sept 2021* |
 
 ## Off-Road
 
@@ -60,5 +60,9 @@
 
 <!-- ## Super
 ## Trailer
-## Trains
-## Utility -->
+## Trains -->
+## Utility
+
+| Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
+| ----------- | :---------: | :------: | :----: | :-------: | :--------: |
+| Vapid Retinue BM | `retinue2v8` | **NO** | **YES** | LA-Shop | *Sept 2021* |
