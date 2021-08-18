@@ -1,22 +1,22 @@
 <!-- ## Boats
-## Commercials
+## Commercials -->
+
 ## Compacts
-## Coupes
+
+| Models Name | Spawns Name |
+| ----------- | :---------: |
+| BF Weevil Outlaw | `weevilo` |
+
+<!-- ## Coupes
 ## Cycles
 ## Emergency
 ## Helicopters
 ## Industrial
 ## Military
 ## Motorcycles
-## Muscle -->
-
+## Muscle 
 ## Off-Road
-
-| Models Name | Spawns Name |
-| ----------- | :---------: |
-| BF Weevil Outlaw | `weevilo` |
-
-<!-- ## Open Wheel
+## Open Wheel
 ## Planes
 ## SUVs
 ## Sedans
