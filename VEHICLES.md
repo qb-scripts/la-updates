@@ -3,9 +3,9 @@
 
 ## Compacts
 
-| Models Name | Spawns Name | Liveries | Tuning | Added Date |
-| ----------- | :---------: | :------: | :----: | :--------: |
-| BF Weevil Outlaw | `weevilo` |  |  | Sept 2021 |
+| Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
+| ----------- | :---------: | :------: | :----: | :-------: | :--------: |
+| BF Weevil Outlaw | `weevilo` | **NO** | **YES** | LA-Shop | *Sept 2021* |
 
 <!-- ## Coupes
 ## Cycles
@@ -18,9 +18,9 @@
 
 ## Off-Road
 
-| Models Name | Spawns Name | Liveries | Tuning | Added Date |
-| ----------- | :---------: | :------: | :----: | :--------: |
-| Vapid Riata Outlaw | `riatao` |  |  | Sept 2021 |
+| Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
+| ----------- | :---------: | :------: | :----: | :-------: | :--------: |
+| Vapid Riata Outlaw | `riatao` | **YES** | **NO** | In-Game | *Sept 2021* |
 
 <!-- ## Open Wheel
 ## Planes
@@ -30,15 +30,15 @@
 
 ## Sports 
 
-| Models Name | Spawns Name | Liveries | Tuning | Added Date |
-| ----------- | :---------: | :------: | :----: | :--------: |
-| Annis Remus Cabrio | `remusvert` |  |  | Sept 2021 |
+| Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
+| ----------- | :---------: | :------: | :----: | :-------: | :--------: |
+| Annis Remus Cabrio | `remusvert` | **NO** | **NO** | In-Game | *Sept 2021* |
 
 ## Sports Classic
 
-| Models Name | Spawns Name | Liveries | Tuning | Added Date |
-| ----------- | :---------: | :------: | :----: | :--------: |
-| Vapid Retinue BM | `retinue2v8` |  |  | Sept 2021 |
+| Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
+| ----------- | :---------: | :------: | :----: | :-------: | :--------: |
+| Vapid Retinue BM | `retinue2v8` | **NO** | **YES** | LA-Shop | *Sept 2021* |
 
 <!-- ## Super
 ## Trailer
