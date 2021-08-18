@@ -14,7 +14,7 @@
 
 | Models Name | Spawns Name |
 | ----------- | :---------: |
-| BF Weevil Outlaw | weevilo |
+| BF Weevil Outlaw | `weevilo` |
 
 <!-- ## Open Wheel
 ## Planes
@@ -26,7 +26,7 @@
 
 | Models Name | Spawns Name |
 | ----------- | :---------: |
-| Annis Remus Cabrio | remusvert |
+| Annis Remus Cabrio | `remusvert` |
 
 <!-- ## Sports Classic
 ## Super
