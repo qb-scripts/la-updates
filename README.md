@@ -4,7 +4,7 @@
 ## Véhicules
 
 - Voici la liste complète des véhicules
-- [Liste complète (4)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md)
+- [Liste complète (6)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md)
 - [Compacts (1)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#compacts)
 - [Off-Road (1)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#off-road)
 - [Sports (3)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#sports)
