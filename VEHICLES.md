@@ -23,6 +23,8 @@
 | Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
 | ----------- | :---------: | :------: | :----: | :-------: | :--------: |
 | De Tomaso Mangusta | `mangusta` | **NO** | **NO** | In-Game | *Sept 2021* |
+| Dodge Monaco | `emperor` | **NO** | **NO** | In-Game | *Sept 2021* |
+| Ford Thundirbird 1964 | `tbird64` | **NO** | **NO** | In-Game | *Sept 2021* |
 
 ## Off-Road
 
