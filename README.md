@@ -1,5 +1,12 @@
 # la-updates
- sql files and changelogs   
+
+Liste des Changelogs 🔽 et Véhicules ⏬
+
+## Changelog
+
+- [Version 1.0] - Septembre 2021
+
+[Version 1.0]: https://github.com/qb-scripts/la-updates/blob/main/CHANGELOG.md
 
 ## Véhicules
 
@@ -10,8 +17,3 @@
 - [Sports (3)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#sports)
 - [Sports Classic (1)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#sports-classic)
 
-## Changelog
-
-- [Version 1.0] - Septembre 2021
-
-[Version 1.0]: https://github.com/qb-scripts/la-updates/blob/main/CHANGELOG.md
