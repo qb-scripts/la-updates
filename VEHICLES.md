@@ -14,15 +14,21 @@
 ## Industrial
 ## Military
 ## Motorcycles
-## Muscle 
+## Muscle  -->
+
 ## Off-Road
-## Open Wheel
+
+| Models Name | Spawns Name |
+| ----------- | :---------: |
+| Vapid Riata Outlaw | `riatao` |
+
+<!-- ## Open Wheel
 ## Planes
 ## SUVs
 ## Sedans
-## Service-->
+## Service -->
 
-## Sports
+## Sports 
 
 | Models Name | Spawns Name |
 | ----------- | :---------: |
