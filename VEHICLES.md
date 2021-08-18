@@ -65,4 +65,4 @@
 
 | Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
 | ----------- | :---------: | :------: | :----: | :-------: | :--------: |
-| Vapid Retinue BM | `retinue2v8` | **NO** | **YES** | LA-Shop | *Sept 2021* |
+| Ford 100 1970 | `f100` | **NO** | **YES** | In-Game | *Sept 2021* |
