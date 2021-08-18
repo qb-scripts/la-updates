@@ -53,6 +53,8 @@
 | Annis Remus Cabrio | `remusvert` | **NO** | **YES** | In-Game | *Sept 2021* |
 | Nissan 300ZX | `threeladyz`| **YES** | **YES** | Unique | *Sept 2021* |
 | Toyota MR-2 GT| `mr2sw20`| **YES** | **YES** | Unique | *Sept 2021* |
+| Mitsubishi Eclipse 1998 | `eclipse` | **YES** | **YES** | In-Game | *Sept 2021* |
+| Toyota Supra Mk4 | `toysupmk4` | **YES** | **YES** | In-Game | *Sept 2021* |
 
 ## Sports Classic
 
@@ -60,8 +62,13 @@
 | ----------- | :---------: | :------: | :----: | :-------: | :--------: |
 | Vapid Retinue BM | `retinue2v8` | **NO** | **YES** | LA-Shop | *Sept 2021* |
 
-<!-- ## Super
-## Trailer
+## Super
+
+| Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
+| ----------- | :---------: | :------: | :----: | :-------: | :--------: |
+| Nissan Gt-R (R33) | `nisy` | **NO** | **YES** | In-Game | *Sept 2021* |
+
+<!--## Trailer
 ## Trains -->
 ## Utility
 
