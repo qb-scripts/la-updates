@@ -38,7 +38,7 @@
 | ----------- | :---------: | :------: | :----: | :-------: | :--------: |
 | Annis Remus Cabrio | `remusvert` | **NO** | **NO** | In-Game | *Sept 2021* |
 | Nissan 300ZX | `threeladyz`| **YES** | **YES** | Unique | *Sept 2021* |
-| Toyota MR-2 GT| `mr2sw20`| **YES** | **YES** | Unique | *Sept 2021 |
+| Toyota MR-2 GT| `mr2sw20`| **YES** | **YES** | Unique | *Sept 2021* |
 
 ## Sports Classic
 
