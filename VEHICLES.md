@@ -25,12 +25,14 @@
 | De Tomaso Mangusta | `mangusta` | **NO** | **NO** | In-Game | *Sept 2021* |
 | Dodge Monaco | `emperor` | **NO** | **NO** | In-Game | *Sept 2021* |
 | Ford Thunderbird 1964 | `tbird64` | **NO** | **NO** | In-Game | *Sept 2021* |
+| Ford Mustang 196 | `mustang67` | **NO** | **NO** | In-Game | *Sept 2021* |
 
 ## Off-Road
 
 | Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
 | ----------- | :---------: | :------: | :----: | :-------: | :--------: |
 | Vapid Riata Outlaw | `riatao` | **YES** | **NO** | In-Game | *Sept 2021* |
+| Ford Bronco 1982 | `rebel2` | **NO** | **NO** | In-Game | *Sept 2021* |
 
 <!-- ## Open Wheel
 ## Planes
