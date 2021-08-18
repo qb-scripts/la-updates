@@ -40,7 +40,7 @@
 
 | Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
 | ----------- | :---------: | :------: | :----: | :-------: | :--------: |
-| Annis Remus Cabrio | `remusvert` | **NO** | **NO** | In-Game | *Sept 2021* |
+| Annis Remus Cabrio | `remusvert` | **NO** | **YES** | In-Game | *Sept 2021* |
 | Nissan 300ZX | `threeladyz`| **YES** | **YES** | Unique | *Sept 2021* |
 | Toyota MR-2 GT| `mr2sw20`| **YES** | **YES** | Unique | *Sept 2021* |
 
