@@ -9,6 +9,7 @@
 - [Off-Road (1)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#off-road)
 - [Sports (3)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#sports)
 - [Sports Classic (1)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#sports-classic)
+- [Muscle (1)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#muscle)
 
 ## Changelog
 
