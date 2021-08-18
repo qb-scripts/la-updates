@@ -42,6 +42,7 @@
 | Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
 | ----------- | :---------: | :------: | :----: | :-------: | :--------: |
 | Lexus LS400 1989 | `89ls400` | **NO** | **NO** | In-Game | *Sept 2021* |
+| Ford Escort 1988 | `buccaneer` | **NO** | **NO** | In-Game | *Sept 2021* |
 <!-- ## Service -->
 
 ## Sports 
