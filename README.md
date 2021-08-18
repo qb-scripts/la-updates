@@ -7,7 +7,7 @@
 - [Liste complète (4)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md)
 - [Compacts (1)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#compacts)
 - [Off-Road (1)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#off-road)
-- [Sports (1)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#sports)
+- [Sports (3)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#sports)
 - [Sports Classic (1)](https://github.com/qb-scripts/la-updates/blob/main/VEHICLES.md#sports-classic)
 
 ## Changelog
