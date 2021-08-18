@@ -3,9 +3,9 @@
 
 ## Compacts
 
-| Models Name | Spawns Name |
-| ----------- | :---------: |
-| BF Weevil Outlaw | `weevilo` |
+| Models Name | Spawns Name | Liveries | Tuning | Added Date |
+| ----------- | :---------: | :------: | :----: | :--------: |
+| BF Weevil Outlaw | `weevilo` |  |  | Sept 2021 |
 
 <!-- ## Coupes
 ## Cycles
@@ -18,9 +18,9 @@
 
 ## Off-Road
 
-| Models Name | Spawns Name |
-| ----------- | :---------: |
-| Vapid Riata Outlaw | `riatao` |
+| Models Name | Spawns Name | Liveries | Tuning | Added Date |
+| ----------- | :---------: | :------: | :----: | :--------: |
+| Vapid Riata Outlaw | `riatao` |  |  | Sept 2021 |
 
 <!-- ## Open Wheel
 ## Planes
@@ -30,15 +30,15 @@
 
 ## Sports 
 
-| Models Name | Spawns Name |
-| ----------- | :---------: |
-| Annis Remus Cabrio | `remusvert` |
+| Models Name | Spawns Name | Liveries | Tuning | Added Date |
+| ----------- | :---------: | :------: | :----: | :--------: |
+| Annis Remus Cabrio | `remusvert` |  |  | Sept 2021 |
 
 ## Sports Classic
 
-| Models Name | Spawns Name |
-| ----------- | :---------: |
-| Vapid Retinue BM | `retinue2v8` |
+| Models Name | Spawns Name | Liveries | Tuning | Added Date |
+| ----------- | :---------: | :------: | :----: | :--------: |
+| Vapid Retinue BM | `retinue2v8` |  |  | Sept 2021 |
 
 <!-- ## Super
 ## Trailer
