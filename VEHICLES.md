@@ -37,7 +37,7 @@
 | Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
 | ----------- | :---------: | :------: | :----: | :-------: | :--------: |
 | Annis Remus Cabrio | `remusvert` | **NO** | **NO** | In-Game | *Sept 2021* |
-|test|
+| Nissan 300ZX |
 
 ## Sports Classic
 
