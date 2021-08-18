@@ -34,8 +34,13 @@
 | ----------- | :---------: |
 | Annis Remus Cabrio | `remusvert` |
 
-<!-- ## Sports Classic
-## Super
+## Sports Classic
+
+| Models Name | Spawns Name |
+| ----------- | :---------: |
+| Vapid Retinue BM | `retinue2v8` |
+
+<!-- ## Super
 ## Trailer
 ## Trains
 ## Utility -->
