@@ -75,3 +75,9 @@
 | Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
 | ----------- | :---------: | :------: | :----: | :-------: | :--------: |
 | Ford 100 1970 | `f100` | **NO** | **YES** | Concess | *Sept 2021* |
+
+## Légendes
+
+Boutique : Vehicule achetable en boutique (🤑)
+Concess : Vehicule disponible au Concessionaire
+Unique : Vehicule en un seul exemplaire réservé
