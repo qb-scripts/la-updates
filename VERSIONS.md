@@ -2,10 +2,7 @@
 
 ## Done ☑️
 
-## qb-core
+## qb-afk
 
-- StarterItems deleted - shared.lua
-
-## Todo 🔄️
-
-- StarterItems add water and bread - shared.lua
+- secondsUntilKick=840 instead of 1400
+- kick message been translate in french
