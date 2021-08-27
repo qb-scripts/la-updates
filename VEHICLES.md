@@ -95,4 +95,4 @@
 Boutique : Vehicule achetable en boutique (🤑);
 Concess : Vehicule disponible au Concessionaire;
 Unique : Vehicule en un seul exemplaire réservé;
-🔥 : Nouveau Vehicule;
+🔥 : Derniers Véhicules Ajoutées;
