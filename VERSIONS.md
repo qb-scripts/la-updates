@@ -18,3 +18,7 @@
 ## qb-bossmenu
 
 - updated (27/07/2021)
+
+## qb-gangsmenu
+
+- updated (27/07/2021)
