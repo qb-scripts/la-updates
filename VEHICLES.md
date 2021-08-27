@@ -37,6 +37,8 @@
 <!-- ## Open Wheel
 ## Planes-->
 ## SUVs
+| Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
+| ----------- | :---------: | :------: | :----: | :-------: | :--------: |
 | 🔥 Hummer H2 | `hummer` | **NO** | **NO** | Concess | *Sept 2021* |
 | 🔥 BMW X5 E53 | `x5e53` | **NO** | **YES** | Concess | *Sept 2021* |
 
@@ -63,7 +65,7 @@
 | Toyota Supra Mk4 | `toysupmk4` | **YES** | **YES** | Concess | *Sept 2021* |
 | 🔥 Chrysler Crossfire | `chrxfire` | **NO** | **YES** | Concess | *Sept 2021* |
 | 🔥 Nissan 350z | `350Z` | **NO** | **YES** | Concess | *Sept 2021* |
-| 🔥 Mercedez C62 | `benzc32` | **NO** | **NO** | Concess | *Sept 2021* |
+| 🔥 Mercedez C32 | `benzc32` | **NO** | **NO** | Concess | *Sept 2021* |
 | 🔥 Aston Martin DB9 | `db905` | **NO** | **NO** | Concess | *Sept 2021* |
 | 🔥 Mitsubishi Lancer Evo 9 | `evo9` | **NO** | **Yes** | Concess | *Sept 2021* |
 | 🔥 Subaru WRX | `subwrx` | **NO** | **YES** | Concess | *Sept 2021* |
