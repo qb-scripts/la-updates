@@ -10,3 +10,7 @@
 
 - secondsUntilKick=840 instead of 1400
 - kick message been translate in french
+
+## qb-anticheat
+
+- updated (27/07/2021)
