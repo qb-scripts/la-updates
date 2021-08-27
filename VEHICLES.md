@@ -33,12 +33,13 @@
 | ----------- | :---------: | :------: | :----: | :-------: | :--------: |
 | Vapid Riata Outlaw | `riatao` | **YES** | **NO** | Concess | *Sept 2021* |
 | Ford Bronco 1982 | `rebel2` | **NO** | **NO** | Concess | *Sept 2021* |
+
+<!-- ## Open Wheel
+## Planes-->
+## SUVs
 | 🔥 Hummer H2 | `hummer` | **NO** | **NO** | Concess | *Sept 2021* |
 | 🔥 BMW X5 E53 | `x5e53` | **NO** | **YES** | Concess | *Sept 2021* |
 
-<!-- ## Open Wheel
-## Planes
-## SUVs-->
 ## Sedans
 
 | Models Name | Spawns Name | Liveries | Tuning | Purchases | Added Date |
