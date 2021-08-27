@@ -14,6 +14,7 @@
 ## qb-anticheat
 
 - updated (27/07/2021)
+- logs and notifs translated in french
 
 ## qb-bossmenu
 
