@@ -81,7 +81,7 @@
 | ----------- | :---------: | :------: | :----: | :-------: | :--------: |
 | Nissan Gt-R (R33) | `nisy` | **NO** | **YES** | Concess | *Sept 2021* |
 | Lamborghini Gallardo | `gallardo` | **NO** | **NO** | Concess | *Sept 2021* |
-| Saleen S7| `ss7` | **NO** | **Yes** | Concess | *Sept 2021* |
+| Saleen S7| `ss7` | **NO** | **Yes** | Concess | *Sept 2021* | (vitre buggé)
 
 <!--## Trailer
 ## Trains -->
