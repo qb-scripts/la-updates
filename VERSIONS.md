@@ -2,6 +2,10 @@
 
 ## Done ☑️
 
+## qb-adminmenu
+
+- updated (27/07/2021)
+
 ## qb-afk
 
 - secondsUntilKick=840 instead of 1400
