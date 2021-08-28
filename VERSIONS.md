@@ -20,6 +20,10 @@
 
 - updated (28/07/2021)
 
+## qb-bankrobbery
+
+- updated (28/07/2021)
+
 ## qb-bossmenu
 
 - updated (27/07/2021)
