@@ -47,6 +47,7 @@ Toutes les modifications notables apportées à ce projet seront documentées da
 
 #### Traductions
 - Traduction des grades de LAPD et EMS
+- Traduction du metiers de vendeurs de véhicules
 
 #### Interface
 - Interface de spawn / menu radial / sélection de personnage mise à jour 
