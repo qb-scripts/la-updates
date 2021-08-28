@@ -52,3 +52,7 @@
 ## qb-prison
 
 - updated (28/07/2021)
+
+## qb-smallresources
+
+- updated (28/07/2021)
