@@ -16,7 +16,7 @@
 - updated (27/07/2021)
 - logs and notifs translated in french
 
-## qb-appartments
+## qb-apartments
 
 - updated (28/07/2021)
 
