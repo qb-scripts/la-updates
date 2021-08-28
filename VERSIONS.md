@@ -33,6 +33,10 @@
 
 - updated (27/07/2021)
 
+## qb-logs
+
+- updated (28/07/2021)
+
 ## qb-multicharacter
 
 - updated (28/07/2021)
