@@ -23,6 +23,7 @@
 ## qb-core
 
 - updated (28/07/2021)
+-/server folder + shared.lua
 
 ## qb-gangsmenu
 
