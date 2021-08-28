@@ -23,7 +23,7 @@
 ## qb-core
 
 - updated (28/07/2021)
--/server folder + shared.lua
+- /server folder + shared.lua
 
 ## qb-doorlok
 
@@ -32,6 +32,10 @@
 ## qb-gangsmenu
 
 - updated (27/07/2021)
+
+## qb-houses
+
+- updated (28/07/2021)
 
 ## qb-logs
 
