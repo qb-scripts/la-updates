@@ -16,6 +16,10 @@
 - updated (27/07/2021)
 - logs and notifs translated in french
 
+## qb-appartments
+
+- updated (28/07/2021)
+
 ## qb-bossmenu
 
 - updated (27/07/2021)
