@@ -25,6 +25,10 @@
 - updated (28/07/2021)
 -/server folder + shared.lua
 
+## qb-doorlok
+
+- updated (28/07/2021)
+
 ## qb-gangsmenu
 
 - updated (27/07/2021)
