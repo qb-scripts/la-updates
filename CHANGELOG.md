@@ -44,6 +44,7 @@ Toutes les modifications notables apportées à ce projet seront documentées da
 - L'aide sans emploi du Gouv est maintenant majorée à 40$ (versée tous les 1/4 h)
 - L'aide bénéficiaire du Gouv est maintenant majorée à 60$ (versée tous les 1/4 h)
 - La durée maximale avant d'être expulsé pour les **AFK** passe de 30 à 14 minutes
+- Concessionaire de Luxe à Déménager sur Eastbourne Way (proche du bijoutier et du Weazel News)
 
 #### Traductions
 - Traduction des grades de LAPD et EMS
