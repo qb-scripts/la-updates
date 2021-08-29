@@ -4,7 +4,7 @@
 
 ## qb-adminmenu
 
-- updated (28/07/2021)
+- updated (29/07/2021)
 
 ## qb-afk
 
