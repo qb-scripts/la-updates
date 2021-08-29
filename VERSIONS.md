@@ -91,6 +91,10 @@
 
 - updated (28/07/2021)
 
+## qb-vehiclefailure
+
+- updated (29/07/2021)
+
 ## qb-vehiculeshop
 
 - updated (28/07/2021)
