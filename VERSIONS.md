@@ -94,4 +94,4 @@
 ## qb-vehiculeshop
 
 - updated (28/07/2021)
--Translated(Yusuma)
+- Translated(Yusuma)
