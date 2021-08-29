@@ -9,16 +9,16 @@
 ## qb-afk
 
 - secondsUntilKick=840 instead of 1400
-- kick message been translate in french
+- kick message translated in french
 
 ## qb-ambulancejob
 
 - updated (29/07/2021)
-- translated(Yusuma)
+- translated (Yusuma)
 
 ## qb-anticheat
 
-- updated (27/07/2021)
+- updated (29/07/2021)
 - logs and notifs translated in french
 
 ## qb-apartments
@@ -51,7 +51,7 @@
 ## qb-garages
 
 - updated (29/07/2021)
-- translated(Yusuma)
+- translated (Yusuma)
 
 ## qb-houses
 
@@ -81,7 +81,7 @@
 ## qb-policejob
 
 - updated (29/07/2021)
-- translated(Yusuma)
+- translated (Yusuma)
 
 ## qb-prison
 
@@ -94,4 +94,4 @@
 ## qb-vehiculeshop
 
 - updated (28/07/2021)
-- Translated(Yusuma)
+- Translated (Yusuma)
