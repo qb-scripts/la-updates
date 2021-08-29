@@ -14,7 +14,7 @@
 ## qb-ambulancejob
 
 - updated (29/07/2021)
-- translating...(Yusuma)
+- translated(Yusuma)
 
 ## qb-anticheat
 
@@ -51,7 +51,7 @@
 ## qb-garages
 
 - updated (29/07/2021)
-- translating...(Yusuma)
+- translated(Yusuma)
 
 ## qb-houses
 
@@ -81,7 +81,7 @@
 ## qb-policejob
 
 - updated (29/07/2021)
-- translating...(Yusuma)
+- translated(Yusuma)
 
 ## qb-prison
 
@@ -91,3 +91,7 @@
 
 - updated (28/07/2021)
 
+## qb-vehiculeshop
+
+- updated (28/07/2021)
+-Translated(Yusuma)
