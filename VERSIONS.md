@@ -11,6 +11,11 @@
 - secondsUntilKick=840 instead of 1400
 - kick message been translate in french
 
+## qb-ambulancejob
+
+- updated (29/07/2021)
+- translating...(Yusuma)
+
 ## qb-anticheat
 
 - updated (27/07/2021)
@@ -41,6 +46,11 @@
 
 - updated (27/07/2021)
 
+## qb-garages
+
+- updated (29/07/2021)
+- translating...(Yusuma)
+
 ## qb-houses
 
 - updated (28/07/2021)
@@ -53,6 +63,11 @@
 
 - updated (28/07/2021)
 
+## qb-policejob
+
+- updated (29/07/2021)
+- translating...(Yusuma)
+
 ## qb-prison
 
 - updated (28/07/2021)
@@ -60,3 +75,4 @@
 ## qb-smallresources
 
 - updated (28/07/2021)
+
