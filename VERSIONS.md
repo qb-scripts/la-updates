@@ -27,6 +27,7 @@
 ## qb-bossmenu
 
 - updated (27/07/2021)
+- Translating... (Brandon)
 
 ## qb-core
 
@@ -40,10 +41,15 @@
 ## qb-gangsmenu
 
 - updated (27/07/2021)
+- Translating... (Brandon)
 
 ## qb-houses
 
 - updated (28/07/2021)
+
+## qb-hud
+
+- Translating... (Brandon)
 
 ## qb-logs
 
@@ -52,6 +58,11 @@
 ## qb-multicharacter
 
 - updated (28/07/2021)
+- Translating... (Brandon)
+
+##qb-spawn
+
+- Translating... (Brandon)
 
 ## qb-target
 
