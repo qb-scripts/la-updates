@@ -36,7 +36,7 @@
 
 ## qb-core
 
-- updated (28/07/2021)
+- updated (29/07/2021)
 - /server folder + shared.lua
 
 ## qb-doorlok
