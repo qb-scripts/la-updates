@@ -14,6 +14,7 @@
 
 ## qb-drugs
 - mise à jour le 02/09/2021
+- Ne vendez pas de drogue aux conducteurs
 
 ## qb-gangmenu
 - mise à jour le 02/09/2021
