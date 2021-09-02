@@ -12,7 +12,7 @@ Toutes les modifications notables apportées à ce projet seront documentées da
 
 ### Ajouts
 
-- Ajout ...
+- Ajout d'éléments à votre arrivée en ville : 3 Sandwichs et 5 Bouteilles d'eau
 
 ### Corrections
 
