@@ -4,7 +4,7 @@
 
 # Changelogs
 
-Toutes les modifications notables apportées à ce projet seront documentées dans ce fichier.
+Toutes les modifications notables apportées à ce projet seront documentées dans ce fichier.h
 
 ## [1.0.0] - 02 Septembre 2021
 
@@ -16,7 +16,7 @@ Toutes les modifications notables apportées à ce projet seront documentées da
 
 ### Corrections
 
-- Aucune Correction ...
+- La liste des correctifs apportés quotidiennement disponible [ici](https://github.com/qb-scripts/la-updates/blob/main/VERSIONS.md)
 
 ### Modifications
 
