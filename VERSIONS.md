@@ -4,6 +4,7 @@
 
 ## qb-ambulancejob
 - mise à jour le 02/09/2021
+- le côté client a été corrigé et mis à jour
 
 ## qb-houses
 - mise à jour le 02/09/2021
