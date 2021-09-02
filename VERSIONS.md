@@ -29,6 +29,9 @@
 - mise à jour le 02/09/2021
 - garage = null a été corrigé
 
+## qb-multicharacter
+- mise à jour le 02/09/2021
+
 ## qb-prison
 - mise à jour le 02/09/2021
 
