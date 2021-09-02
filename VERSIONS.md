@@ -6,6 +6,9 @@
 - mise à jour le 02/09/2021
 - le côté client a été corrigé et mis à jour
 
+## qb-atms
+- mise à jour le 02/09/2021
+
 ## qb-houses
 - mise à jour le 02/09/2021
 - garage = null a été corrigé
