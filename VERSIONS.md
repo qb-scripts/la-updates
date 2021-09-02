@@ -12,6 +12,9 @@
 ## qb-bossmenu
 - mise à jour le 02/09/2021
 
+## qb-gangmenu
+- mise à jour le 02/09/2021
+
 ## qb-hotdogjob
 - mise à jour le 02/09/2021
 
