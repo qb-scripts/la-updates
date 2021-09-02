@@ -1,6 +1,6 @@
 ![Discord](https://img.shields.io/discord/851354005585264640?color=%235865F2&label=Discord&logo=discord&style=for-the-badge)
 
-## [Rejoindre Discord](https://discord.com/invite/6Spa4zNQpE)
+## [Rejoindre le serveur Discord](https://discord.com/invite/6Spa4zNQpE)
 
 # Changelogs
 
@@ -24,7 +24,7 @@ Toutes les modifications notables apportées à ce projet seront documentées da
 
 ### Suppressions
 
-- Aucune Suppression ...
+- Suppression d'éléments à votre arrivée en ville : téléphone, carte d'identité et permis de conduire
 
 <!-- - Suppression  -->
 
