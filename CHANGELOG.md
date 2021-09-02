@@ -19,8 +19,9 @@ Toutes les modifications notables apportées à ce projet seront documentées da
 - La liste des correctifs apportés quotidiennement disponible [ici](https://github.com/qb-scripts/la-updates/blob/main/VERSIONS.md)
 
 ### Modifications
-
-- Aucune Modification ...
+- Argent à votre arrivée en ville : passant à 2000$ en banque et 500$ en cash
+- L'aide sans emploi du Gouv est maintenant majorée à 40$ (versée tous les 1/4 h)
+- L'aide bénéficiaire du Gouv est maintenant majorée à 60$ (versée tous les 1/4 h)
 
 ### Suppressions
 
