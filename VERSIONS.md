@@ -9,6 +9,9 @@
 ## qb-atms
 - mise à jour le 02/09/2021
 
+## qb-blackjack
+- mise à jour le 02/09/2021
+
 ## qb-bossmenu
 - mise à jour le 02/09/2021
 
