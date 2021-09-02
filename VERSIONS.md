@@ -15,4 +15,8 @@
 ## qb-radialmenu
 - mise à jour le 02/09/2021
 
+## qb-houses
+- mise à jour le 02/09/2021
+- garage = null a été corrigé
+
 ## Todo 🔄️
