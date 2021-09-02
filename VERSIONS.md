@@ -10,5 +10,6 @@
 
 ## qb-shops
 - mise à jour le 02/09/2021
+- Ajout de munitions de pistolet aux magasins d'armes
 
 ## Todo 🔄️
