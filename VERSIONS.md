@@ -31,6 +31,7 @@
 
 ## qb-multicharacter
 - mise à jour le 02/09/2021
+- nombre d'éléments de départ pris en compte
 
 ## qb-prison
 - mise à jour le 02/09/2021
